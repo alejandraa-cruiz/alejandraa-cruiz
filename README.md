@@ -28,7 +28,7 @@ Python · FastAPI · Node.js · REST APIs · Stripe integrations
 
 ### 🗄️ Data & Infrastructure
 
-PostgreSQL · Docker · NGINX
+PostgreSQL · Docker 
 
 ### 🧰 Tools
 
